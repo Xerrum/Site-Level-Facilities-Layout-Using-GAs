@@ -2,7 +2,7 @@
 
 MATLAB implementation of an **Ant Colony Optimization (ACO)** algorithm that solves the site-level facility layout problem from Li & Love (1998), a combinatorial and non-linear assignment problem originally solved with a genetic algorithm.
 
-University project (TU Darmstadt).
+University project (American University in Cairo).
 
 ## Problem
 
